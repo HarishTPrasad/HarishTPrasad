@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **My Projects**
 
-- 🤝 I’m looking for help with **Industry Lever Projects**
+- 🤝 I’m looking for help with **Industry Level Projects**
 
 - 💬 Ask me about **JavaScript, ReactJS**
 
