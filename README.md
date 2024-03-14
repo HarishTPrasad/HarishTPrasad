@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harish1090prasad@gmail.com**
 
-- ⚡ Fun fact **I eat much when i am angry......**
+- ⚡ Fun fact **I eat much when i am angry.............**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
