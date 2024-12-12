@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harish Prasad</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 🔭 I’m currently working on **Blockchain, MERN**
+- 🔭 I’m currently working on **Web 3, React JS, Firebase, Full-Stack**
 
-- 🌱 I’m currently learning **React Native, Machine Learning**
+- 🌱 I’m currently learning **React Native, Machine Learning, BlockChain**
 
-- 👯 I’m looking to collaborate on **My Projects**
+- 👯 I’m looking to collaborate on **My next level Projects**
 
-- 🤝 I’m looking for help with **Industry Level Projects**
+- 🤝 I’m looking for help with **Embedded Programming**
 
-- 💬 Ask me about **JavaScript, ReactJS**
+- 💬 Ask me about **JavaScript, ReactJS, New Technologies**
 
 - 📫 How to reach me **harish1090prasad@gmail.com**
 
